@@ -2,7 +2,16 @@
 
 A simple and elegant **calculator web application** built with **Vue 3**, **TailwindCSS**, and **Vite**.  
 This project supports basic arithmetic operations, percentage, square root, positive/negative toggle, and includes a **delete button**.
-<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/7e2ea402-480e-4782-9435-c0e5c5b86a74" />
+
+
+
+
+
+
+
+
+
+<img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/c7c62d69-5f17-47f6-969f-96e943904d24" />
 
 
 ## 🚀 Features
