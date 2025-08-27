@@ -50,7 +50,7 @@ function press(btn) {
 
 <template>
 
-  <div class="bg-white p-6 rounded-2xl shadow-xl w-80">
+  <div class="bg-black p-6 rounded-2xl shadow-xl w-80">
     <!-- Display -->
     <div class="mb-4 bg-pink-100 p-4 rounded-lg text-2xl font-mono flex justify-between items-center h-20 overflow-x-auto">
       <span>{{ display }}</span>
@@ -66,14 +66,14 @@ function press(btn) {
     </div>
 
     <!-- Buttons Grid -->
-    <div class="grid grid-cols-4 gap-2">
+    <div class="grid grid-cols-4 gap-3">
       <button
         v-for="btn in buttons"
         :key="btn"
         @click="press(btn)"
         :class="[
-          'p-4 rounded-lg text-lg font-bold transition',
-          'bg-pink-300 hover:bg-pink-400 text-white'
+          'p-4 rounded-full text-lg font-bold transition',
+          'bg-gray-800 ring ring-purple-500  text-white'
         ]"
       >
         {{ btn }}
