@@ -15,7 +15,6 @@ This project supports basic arithmetic operations, percentage, square root, posi
 - **Delete Last Digit** (DEL)
 - **Clear (C)** button
 - Fully **responsive design**
-- Dark/Light mode support using TailwindCSS
 - Handles floating-point precision correctly
 
 
