@@ -34,7 +34,7 @@ This project supports basic arithmetic operations, percentage, square root, posi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-hvvahsnli/vue-calculator.git
-cd vue-calculator
+git clone https://github.com/your-hvvahsnli/calculator.git
+cd calculator
 npm install 
 npm run dev
