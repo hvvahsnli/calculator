@@ -3,8 +3,6 @@
 A simple and elegant **calculator web application** built with **Vue 3**, **TailwindCSS**, and **Vite**.  
 This project supports basic arithmetic operations, percentage, square root, positive/negative toggle, and includes a **delete button**.
 
----
-
 ## 🚀 Features
 
 - **Basic Arithmetic:** `+`, `-`, `*`, `/`
@@ -18,7 +16,6 @@ This project supports basic arithmetic operations, percentage, square root, posi
 - Dark/Light mode support using TailwindCSS
 - Handles floating-point precision correctly
 
----
 
 ## 💻 Technologies Used
 
@@ -27,7 +24,6 @@ This project supports basic arithmetic operations, percentage, square root, posi
 - [TailwindCSS](https://tailwindcss.com/) – Utility-first CSS framework  
 - [Lucide Vue](https://lucide.dev/) – Icons for buttons  
 
----
 
 
 ## ⚡ Installation
